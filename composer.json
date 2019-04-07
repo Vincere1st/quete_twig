@@ -1,0 +1,13 @@
+{
+    "name": "vincere/quete",
+    "description": "quete expedition",
+    "authors": [
+        {
+            "name": "Vincere1st",
+            "email": "vincerecaro@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.7"
+    }
+}
